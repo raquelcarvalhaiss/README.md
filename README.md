@@ -1,4 +1,4 @@
-<h2> Oi!! Eu sou a Raquel. </h2>
+<h2> Oi! Eu sou a Raquel. </h2>
 <h3> ❀ Estudante, desenvolvedora, futura poliglota e entusiasta pelo espaço! </3>
 <h4>
     
