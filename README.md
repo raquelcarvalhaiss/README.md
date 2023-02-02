@@ -5,7 +5,6 @@
 - ❁ Atualmente desenvolvendo um gerenciador de tarefas e um card pessoal;
 - ❁ Aprendendo JavaScript, Python
 - ❁ Aperfeiçoando em CSS e C#
-- ❁ Estudante de Análise e Desenvolvimento de Sistemas pela Unopar
 - ❁ Estudante da Arnia - Escola de Programação
 - ♡ Hobbies: leitura, astronomia, astrofísica
 </h4>
