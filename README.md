@@ -23,6 +23,7 @@
 - ❉ CSS
 - ❉ JavaScript
 - ❉ C#
+- ❉ Python
 
 
 <!---
